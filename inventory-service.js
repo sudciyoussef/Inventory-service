@@ -6,7 +6,7 @@ const PORT = 3000;
 
 // Mock Inventory Data
 let inventory = {
-  'item1': { name: 'Item 1', quantity: 10 },
+  'item1': { name: 'Item 1', quantity: 12 },
   'item2': { name: 'Item 2', quantity: 5 }
 };
 
